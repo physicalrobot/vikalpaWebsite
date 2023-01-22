@@ -1,7 +1,8 @@
 ---
 layout: post
 title: first update!
-image: /assets/img/logo.png
+image: 
+  path: ./assets/img/logo.png
 accent_image: 
   background: url('/assets/img/blackwallcanvas.png') center/cover
   overlay: false
