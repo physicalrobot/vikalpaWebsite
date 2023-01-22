@@ -2,7 +2,7 @@
 layout: post
 title: first update!
 image: 
-  path: ./assets/img/logo.png
+  path: /assets/img/logo.png
 accent_image: 
   background: url('/assets/img/blackwallcanvas.png') center/cover
   overlay: false
