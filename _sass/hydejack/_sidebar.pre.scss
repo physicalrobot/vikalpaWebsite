@@ -213,8 +213,9 @@ hy-drawer.loaded .sidebar {
   z-index: 4;
   opacity: 0.33;
   top: 5vw;
-  right: 5vw;
-  transform: scale(0.67);
+  right: 500px;
+  transform: scale(0.37);
+  background: transparent;
 
   @media screen and (min-width: $break-point-1) {
     top: calc(50% - 48px);

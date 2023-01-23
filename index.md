@@ -1,7 +1,7 @@
 ---
 layout: welcome
 title: विकल्प
-sitemap: false
+cover: true
 projects_page: projects.md
 
 ---
