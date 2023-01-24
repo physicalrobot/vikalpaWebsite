@@ -8,6 +8,10 @@
     background: transparent;
 }
 
+.img{
+   object-fit: contain; // link
+}
+
 
 .content.aspect-ratio.img{
     object-fit: contain;
