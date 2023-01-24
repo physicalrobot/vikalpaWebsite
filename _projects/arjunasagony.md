@@ -12,5 +12,8 @@ image:
     1920w: /assets/img/projects/ArjunasAgony.png
     960w:  /assets/img/projects/ArjunasAgony.png
     480w:  /assets/img/projects/ArjunasAgony.png
+links:
+  - title: Link
+    url: https://hydejack.com/
 sitemap: false
 ---
