@@ -9,7 +9,7 @@ accent_image:
 # accent_color: '#ccc'
 # theme_color: '#ccc'
 description: >
-  Excited to start my new adventure as an artist!
+  Excited to start this new journey as an artist!
 ---
 
 Hey Folks, 
