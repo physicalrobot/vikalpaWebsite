@@ -14,6 +14,6 @@ description: >
 
 Hey Folks, 
 
-      This is just a space where I can broadcast updates about my work and maybe provide some insight about where I think things are headed. I'm really excited to share my work with you all, and want to be transparent about how I grow in the process. Can't wait to share everything that I have planned this year, there's much more to come!
+This is just a space where I can broadcast updates about my work and maybe provide some insight about where I think things are headed. I'm really excited to share my work with you all, and want to be transparent about how I grow in the process. Can't wait to share everything that I have planned this year, there's much more to come!
 
 
