@@ -11,11 +11,11 @@ It originates from the ancient language sanskrit.
 
 Sanskrit or Samskritam is considered by many to be the mother of all existing Indo-European languages. But 6000 years ago it wasn't spoken as much as it was written or read. It is a language created by quite literally refining other prexisting languages at the time (one of them being the ancient Tamil); specifically with the focus of expressing the universe the way in which one experiences it.
 
-Early indians used it to write textbooks or manuals on how to create temples and other structures used in vedic rituals. They used it to describe the cosmos and the relationships between oraganims and the earth around them. All the mathematics and science was written in Sanskrit as well. 
+Early indians used it to write textbooks or manuals on how to create temples and other structures used in vedic rituals. They used it to describe the cosmos and the relationships between organims and the earth around them. All the mathematics and science was written in Sanskrit as well. 
 
-It's a framework that was created to be just as poetic as it is logical. In fact it was recently found that Sanskrit's logical syntax even makes it an excellent choice for writing algorithms for artificial intelligence. The point is English is an incredibly watered down language, and some words in Sanskrit unfortunately become "untranslatable". 
+It's a framework that was created to be just as poetic as it is logical. In fact it was recently found that Sanskrit's logical syntax even makes it an excellent choice for writing algorithms for artificial intelligence. The point is English is an incredibly watered down language, and some words in Sanskrit unfortunately are "untranslatable" because of it. 
 
-This really means that the only way to convey the definition of the word is by listing 32 different but similar concepts. There are words for things in Sanskrit that don't exist in English simply because the concept is absent in Western Philosophy. Vikalpa is one such concept. 
+The definition of an "untranslatable" word is usually conveyed by listing 32 different but similar concepts. There are words for things in Sanskrit that don't exist in English simply because the concept is absent in Western Philosophy. Vikalpa is one such concept. 
 
 When somebody seriously sits down with themselves, and tries to silence the mind. Certain discomforts emerge. The art of dealing with these very discomforts is what Yoga sets out to do. 
 
