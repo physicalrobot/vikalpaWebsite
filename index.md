@@ -33,7 +33,7 @@ When one begins meditating the mind begins to wander. The places the mind goes a
 
 In Sanātana Dharma we see the universe as being very much alive and full of awareness. Everything from celestial objects to oceans, forests and mountains are personafied and revered. With the same devotion the Earth itself is worshiped in the form of the devi <span style="color:turquoise">पृथिवी</span> (Prithvi Mata), or mother earth. 
 
-I'd like to think that my work is a reflection of her Vikalpa, as she sits down and lets her mind wander on all the great stories from our culture that unite the vast Indian diaspora. 
+I'd like to think that my work is a reflection of her Vikalpa, as she sits down and lets her mind wander on all the great stories from my culture that unite the vast Indian diaspora. 
 
 
 
