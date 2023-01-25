@@ -22,7 +22,7 @@ The definition of an "untranslatable" word is usually conveyed by listing 32 dif
 
 <h3>Focus</h3>
 
-When somebody seriously sits down with themselves, and tries to silence the mind. Certain discomforts emerge. The art of dealing with these very discomforts is what Yoga sets out to do. 
+When somebody seriously sits down with themselves, and tries to silence the mind. Certain discomforts emerge. The task of dealing with these very discomforts is what Yoga sets out to do. 
 
 The great sage Patanjali once said " <span style="color:turquoise"> योगश्चित्तवृत्तिनिरोधः </span> (yoga citta vritti nirodha)". In english: "Yoga is the restraint of fluctuation of the mind".
 
