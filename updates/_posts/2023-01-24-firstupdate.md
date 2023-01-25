@@ -10,7 +10,6 @@ accent_image:
 # theme_color: '#ccc'
 description: >
   Excited to start my new adventure as an artist!
-invert_sidebar: false
 ---
 
 Hey Folks, 
