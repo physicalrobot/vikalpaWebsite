@@ -16,7 +16,7 @@
 .content .aspect-ratio {
   overflow: visible; // inline
   img {
-    margin: auto; // inline
+    margin: 0; // inline
     object-fit: contain; // link
     background-size: contain;
     background: transparent;
