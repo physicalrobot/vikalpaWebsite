@@ -45,8 +45,8 @@ p {
 
 .content img, .img,
 .content video, .video {
-  max-width: 100%;
   height: auto;
+
 }
 
 .lead {
@@ -62,6 +62,8 @@ img, video {
     max-width: calc(100% + 2rem);
     width: calc(100% + 2rem);
     height: auto;
+    background-size: contain;
+
   }
 }
 // >>> INLINE
