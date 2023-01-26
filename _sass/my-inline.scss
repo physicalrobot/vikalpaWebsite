@@ -19,6 +19,15 @@
     }
   }
 
+  @media screen  {
+    .content img .img .content video .video {
+      object-fit: contain;
+      background-color: transparent;
+   
+    }
+    
+  }
+
 
 .project-card{
     left:-10px;        
