@@ -67,6 +67,7 @@ main:not(.layout-resume) {
     box-shadow: .125rem .125rem 1rem rgba(0, 0, 0, 0.2);
     contain: content;
     border-radius: $border-radius;
+    
 
     page-break-inside: avoid;
 
