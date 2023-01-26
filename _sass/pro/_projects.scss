@@ -82,10 +82,10 @@ main:not(.layout-resume) {
 
       .project-card-img {
         margin-bottom: 0;
+        object-fit: contain;
+
         img { 
           display: block; 
-          height: 100%;
-          width: 100%;
           object-fit: contain;
           border-top-left-radius: $border-radius;
           border-top-right-radius: $border-radius;
@@ -98,6 +98,7 @@ main:not(.layout-resume) {
       z-index: 1;
 
       &.fill-card {
+        object-fit:contain;
         position: absolute;
         top: 0;
         left: 0;
