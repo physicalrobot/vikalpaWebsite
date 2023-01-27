@@ -8,6 +8,7 @@ image:
   path: /assets/img/mentalclarity.png
   width:  100%
   height: auto
+  object-fit: contain
   srcset: 
     1920w: /assets/img/mentalclarity.png
     960w:  /assets/img/mentalclarity@0,5x.png
