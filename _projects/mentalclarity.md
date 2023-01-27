@@ -6,6 +6,8 @@ date: '02-01-2022'
 accent_image: /assets/img/mentalclarity.png   
 image: 
   path: /assets/img/mentalclarity.png
+  width:  100%
+  height: auto
   srcset: 
     1920w: /assets/img/mentalclarity.png
     960w:  /assets/img/mentalclarity@0,5x.png
