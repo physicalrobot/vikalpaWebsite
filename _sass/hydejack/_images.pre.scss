@@ -17,6 +17,8 @@
   overflow: visible; // inline
   img {
     margin: 0; // inline
+    max-width: 100%;
+    height: auto;
     object-fit: contain; // link
     background-size: contain;
     background: transparent;
