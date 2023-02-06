@@ -12,11 +12,11 @@ It originates from the ancient language sanskrit.
 
 Sanskrit or Samskritam is considered by many to be the mother of all existing Indo-European languages. But 6000 years ago it wasn't spoken as much as it was written or read. It is a language created by quite literally refining other prexisting languages at the time (one of them being the ancient Tamil); specifically with the focus of expressing the universe the way in which one experiences it.
 
-Early indians used it to write textbooks or manuals on how to create temples and other structures used in vedic rituals. They used it to describe the cosmos and the relationships between organisms and the earth around them. All the mathematics and science was written in Sanskrit as well. 
+Early indians used it to write textbooks or manuals on how to create temples and other structures used in vedic rituals. They used it to describe the cosmos and the relationships between organisms and the earth around them. Sanskrit was used to compile all the mathematics, science, and philosophy as well as the literature and history. 
 
-It's a framework that was created to be just as poetic as it is logical. In fact it was recently found that Sanskrit's logical syntax even makes it an excellent choice for writing algorithms for artificial intelligence. The point is English is an incredibly watered down language, and some words in Sanskrit unfortunately are "untranslatable" because of it. 
+It is a framework that was created to be just as poetic as it is logical. English, although being a great grandchild of Sanskrit, wasn't designed with this purpose rendering some words "untranslatable" because of it. 
 
-The definition of an "untranslatable" word is usually conveyed by listing 32 different but similar concepts. There are words for things in Sanskrit that don't exist in English simply because the concept is absent in Western Philosophy. Vikalpa is one such concept. 
+The definition of an "untranslatable" word is usually conveyed by listing many different but similar concepts. There are words for things in Sanskrit that don't exist in English simply because the concept is absent in Western Philosophy. Vikalpa is one such concept. 
 
 ---------------------------------------------------------------------------------------------------
 

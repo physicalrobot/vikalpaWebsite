@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The Beheading"
-caption: The moment comes into focus as I let everything else go.
+caption: Regret.
 date: '02-01-2022'
 accent_image: /assets/img/projects/TheBeheading.png   
 image: 
@@ -16,4 +16,4 @@ image:
 sitemap: false
 ---
 
-  Meditation is the method of silencing the mind and bringing the immediate universe into focus. It’s a state that’s both intentional and unintentional at the same time. By remaining equanomous to your emotions as they wash over you, one ultimately realizes everything as a distraction to simply “being”.
+  
