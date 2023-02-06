@@ -26,7 +26,7 @@ When somebody seriously sits down with themselves, and tries to silence the mind
 
 The great sage Patanjali once said " <span style="color:turquoise"> योगश्चित्तवृत्तिनिरोधः </span> (yoga citta vritti nirodha)". In english: "Yoga is the restraint of fluctuation of the mind".
 
-Ancient indians created methods for excercising mental fortitude and focusing the mind. We have a systematic understanding of the various experiences one may go through as begin their journey meditating. This is the context from which the concept of  <span style="color:turquoise"> विकल्प </span> (vikalpa) was born. 
+Ancient indians created methods for excercising mental fortitude and focusing the mind. We have a systematic understanding of the various experiences one may go through as they begin their journey meditating. This is the context from which the concept of  <span style="color:turquoise"> विकल्प </span> (vikalpa) was born. 
 When one begins meditating the mind begins to wander. The places the mind goes as you begin to attempt quieting it can be just as vicious as ecstatic. Maybe you begin to conjur up memories of events that either happened to you or you were a part of and play them out differently. Maybe you just get lost thinking about how the future will be. The pain and trauma inside of us dictates the noise level in our heads; the first step in meditation is being able to control that volume. 
 
 <span style="color:turquoise"> विकल्प </span> (vikalpa) is the source of your aversion when you sit down with yourself. It's the figment of imagination within you that keeps you from becoming still. It's an idea that exists to exist in your head and nowhere else. 
