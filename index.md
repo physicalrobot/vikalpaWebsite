@@ -8,7 +8,7 @@ projects_page: projects.md
 <h3>Background</h3>
 Vikalpa is a concept that has been lost in translation and used in my culture for thousands of years.
 
-It originates from the ancient language sanskrit. 
+It originates from the ancient language Sanskrit. 
 
 Sanskrit or Samskritam is considered by many to be the mother of all existing Indo-European languages. But 6000 years ago it wasn't spoken as much as it was written or read. It is a language created by quite literally refining other prexisting languages at the time (one of them being the ancient Tamil); specifically with the focus of expressing the universe the way in which one experiences it.
 
