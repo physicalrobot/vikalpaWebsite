@@ -21,7 +21,7 @@ The Demon King would torture everyone in his path, he was arrogant and very full
 
 Being drunk with power, Hiranyakashipu, just like many rulers after him and many before him, felt that he alone deserved access to the Divine. He forbade everyone to worship any other entity besides himself. Although he enforced his will on most the one individual he couldn't get to let go of the Divine was his own son, Prahlad. The karmic retirbution for his actions was almost poetic to say the least. 
 
-Prahlad was more spiritually inclined than most had ever been from a very young age. He embraced life with such tenacity it bothered his father. The Demon King  had failed to convince his son to worship him. Having realized this, Hiranyakashipu would start orchestrating various scenarios to kill Prahlad. But every single attempt was met with divine failure, as if the universe itself was protecting the delinquent prince. 
+Prahlad was more spiritually inclined than most had ever been from a very young age. He embraced life with such tenacity it bothered his father. The Demon King  had failed to convince his son to worship him. Having realized this, Hiranyakashipu would start orchestrating various scenarios to kill Prahlad. But every single attempt was met with divine failure, as if the universe itself was protecting the "delinquent" prince. 
 
 Finally fed up with not being able to kill his son, Hiranyakashipu decided to murder him himself. 
 
