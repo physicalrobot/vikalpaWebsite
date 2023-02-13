@@ -27,7 +27,7 @@ Finally fed up with not being able to kill his son, Hiranyakashipu decided to mu
 
 Upon confronting Prahlad he asks "If you're so confident this God exists, where is he?"
 
-Prahlad calmly responds "He is in everything and everyone, including even your heart."
+Prahlad calmly responds "He is in everything and everyone, including even your wicked heart."
 
 At this Hiranyakashipu becomes enraged and points at a pillar in the throne room. 
 "Does he reside in this pillar as well?" he yells. 
