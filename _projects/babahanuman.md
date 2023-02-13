@@ -2,7 +2,7 @@
 layout: project
 title: "Baba Hanuman"
 caption: With us always.
-date: '02-08-2022'
+date: '08-02-2022'
 accent_image: /assets/img/projects/BabaHanuman.png   
 image: 
   path: /assets/img/projects/BabaHanuman.png

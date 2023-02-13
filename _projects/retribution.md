@@ -2,7 +2,7 @@
 layout: project
 title: "Retribution"
 caption: Selfless Devotion.
-date: '02-13-2022'
+date: '13-02-2022'
 accent_image: /assets/img/projects/Retribution.png   
 image: 
   path: /assets/img/projects/Retribution.png
