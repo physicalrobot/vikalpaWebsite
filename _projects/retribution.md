@@ -17,7 +17,7 @@ sitemap: false
 ---
 
 This piece represents the omnipresence of our Dharmic "god". It's inspired by the story of Prahlad and how he survived his Demon King father, Hiranyakashipu. 
-The Demon King would torture everyone in his path, he was arrogant and very full of himself. When his brother died, the despair made him to seek absolute power to protect his ego from becoming damaged again. After a fierce amount of meditation, he experienced the Lord Brahma who granted him his boon of invincibility. 
+The Demon King would torture everyone in his path, he was arrogant and very full of himself. When his brother died, the despair made him seek absolute power to protect his ego from becoming damaged again. After a fierce amount of meditation, he experienced the Lord Brahma who granted him his boon of invincibility. 
 
 Being drunk with power, Hiranyakashipu, just like many rulers after him and many before him, felt that he alone deserved access to the Divine. He forbade everyone to worship any other entity besides himself. Although he enforced his will on most the one individual he couldn't get to let go of the Divine was his own son, Prahlad. The karmic retirbution for his actions was almost poetic to say the least. 
 
