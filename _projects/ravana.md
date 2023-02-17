@@ -29,6 +29,6 @@ The nature his ten heads reflect are as follows:
   <ul><span style="color:turquoise">Maatsyasya</span> (envy)</ul>
   <ul><span style="color:turquoise">Manas</span> (mind)</ul>
   <ul><span style="color:turquoise">Buddhi</span> (intellect)</ul>
-  <ul><span style="color:turquoise">Chitta</span> (will) and</ul> 
+  <ul><span style="color:turquoise">Chitta</span> (will)</ul> 
   <ul><span style="color:turquoise">Ahamkara</span> (ego)</ul>
   </ul>
