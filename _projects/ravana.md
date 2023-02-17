@@ -17,7 +17,7 @@ sitemap: false
 ---
 
 Ravan's strength and success made him the ultimate devil's advocate to the notions put forth by most spiritual practices at the time. Although he was advised to suppress the desire in pursuit of becomming great, he embraced it. For him life wasn't worth living without the pleasures of the material world. For without these tendencies what is life? He became a passionate force of nature that always did more than what was required to accomplish his motive. No one could deny him what he wanted, and if they did, he'd just find a way to take it from them. 
-His hunger for domination knew no bounds. He had the intellect and brute force to confront every challenge he faced. The only entity he considered above him was Lord Shiva. Being extremely successful in his conquest his belief in himself grew to the point where he quite literally embodied the principles of his philsophy. 
+His hunger for domination knew no bounds. He had the intellect and brute force to confront every challenge he faced. The only entity he considered above him was Lord Shiva. Being extremely successful in his conquests his belief in himself grew to the point where he quite literally embodied the principles of his philsophy. 
 
 Each head represents a fundamental pillar of his strength, they are as follows:
 <ul style="text-align:center">
