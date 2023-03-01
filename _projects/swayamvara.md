@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Swayamvara"
-caption: Finding Ram
+caption: Finding Ram.
 date: '01-03-2023'
 accent_image: /assets/img/projects/Swayamvara.png   
 image: 
