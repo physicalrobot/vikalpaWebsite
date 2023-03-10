@@ -18,7 +18,7 @@ sitemap: false
 
 King Vishwamitra was known for his greatness. In fact his pursuit of greatness led him to become a very succesful ruler. He had all the wealth one could possibly want, while also possessing a mighty army second to none at the time. He believed his influence knew know bounds and that there was nothing beyond his reach, espeacially if he wanted it bad enough. 
 
-All this came to an end when he dared to challenge the Brahmarishi Vashishta for his sacred Kāmadhenu, Nandini. Enchanted by the sacred cow's ability to manifest whatever she wanted, Vishwamitra realized immedietely that the value of his mighty kingdom pailed in comparision to the powers she exhibited. Jealousy had consumed him. He believed something so precious shouldn't be biding it's time here within the ashram of this bhramarishi, but instead be with him in his grand palace.
+All this came to an end when he dared to challenge the Brahmarishi Vashishta for his sacred Kāmadhenu, Nandini. Enchanted by the sacred cow's ability to manifest whatever she wanted, Vishwamitra realized immedietely that the value of his mighty kingdom pailed in comparision to the powers she exhibited. Jealousy had consumed him. He believed something so precious shouldn't be biding it's time here within the ashram of this Brahmarishi, but instead be with him in his grand palace.
 
 When approached, Vashista would simply smile and respond "If you're asking permission from me to purchase her, she's already well beyond your reach. Nandini is a fully realized being, no body will ever own her."  
 
