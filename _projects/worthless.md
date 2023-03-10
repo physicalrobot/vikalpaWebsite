@@ -2,7 +2,7 @@
 layout: project
 title: "Worthless"
 caption: The moment you realize you have nothing that matters.
-date: '02-01-2022'
+date: '10-03-2023'
 accent_image: /assets/img/projects/Worthless.png   
 image: 
   path: /assets/img/projects/Worthless.png
