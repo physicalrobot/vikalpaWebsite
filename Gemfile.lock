@@ -12,6 +12,7 @@ GEM
     eventmachine (1.2.7)
     execjs (2.8.1)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
@@ -88,17 +89,13 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    tzinfo (2.0.6)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2022.7)
-      tzinfo (>= 1.0.0)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
   arm64-darwin-22
   x64-mingw-ucrt
   x64-unknown
+  x86_64-linux
 
 DEPENDENCIES
   duktape
@@ -118,8 +115,6 @@ DEPENDENCIES
   jekyll-titles-from-headings
   kramdown-math-katex
   kramdown-parser-gfm
-  tzinfo-data
-  wdm
   webrick
 
 BUNDLED WITH
