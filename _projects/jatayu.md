@@ -15,7 +15,7 @@ sitemap: false
 <h3>Part 2</h3> 
 
 
-Realizing what his stubbornness had cost him, Jatayu went into full remorse. He flew around the world looking for his brother, never being able to find him. After years of searching he gave up in despair. The pain of living at the cost of his brother ate away at him. In order to find the strength to go on, he made a pact with himself to commit his wings to the service of someone else's well-being, just as Sampati had done.
+Realizing what his stubbornness had cost him, Jatayu went into full remorse. He flew around the world looking for Sampati, never being able to find him. After years of searching he gave up in despair. The pain of living at the cost of his brother ate away at him. In order to find the strength to go on, he made a pact with himself to commit his wings to the service of someone else's well-being, just as Sampati had done.
 
 It wasn't long until Jatayu got the opportunity to vindicate his inner conflict. On a bright day as he was flying over a patch of forest, he witnesses a fearsome rakshasa kidnapping a woman. He was getting away on his chariot. 
 
