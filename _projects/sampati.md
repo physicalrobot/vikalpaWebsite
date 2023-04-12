@@ -2,7 +2,7 @@
 layout: project
 title: "Sampati"
 caption: (Part 1 of 2) Sacrifice. 
-date: '04-04-2023'
+date: '10-04-2023'
 accent_image: /assets/img/projects/sampati.png   
 image: 
   path: /assets/img/projects/sampati.png
