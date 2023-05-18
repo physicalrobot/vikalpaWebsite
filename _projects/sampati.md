@@ -24,4 +24,4 @@ But unfortunately the light from the Sun was too bright and Jatayu didn't realiz
 
 Sampati's reaction in that moment was emblematic of how real families behave. I can think of many examples within my own family of how my parents or any older relative would reflexively put themselves in harms way to keep me safe. Ambition can be so blinding; and in those moments we tend to hurt people closest to us. Most of the time, we don't realize until the damage is done.      
 
-<span style="color:turquoise"> [part two](https://vikalpa.xyz/projects/jatayu/)</span> 
+<span style="color:turquoise"> [part two](vikalpa.xyz/projects/jatayu/)</span> 
