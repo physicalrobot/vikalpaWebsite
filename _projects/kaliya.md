@@ -27,4 +27,4 @@ Realizing the futility of his aggression, Kaliya's wives approached Krsna, plead
 
 Krsna demanded that Kaliya leave the Yamuna River and never harm its inhabitants again. The defeated serpent, recognizing the divine presence before him, humbly accepted Krsna's command and slithered away to find a new abode. The Yamuna River, now freed from the venomous grip of Kaliya, flowed peacefully once more, rejuvenating the land and its people.
 
-The tale of Krishna's triumph over Kaliya serves as a powerful metaphor, symbolizing the profound significance of maintaining compassion and forgiveness in victory or defeat. Through his playfulness, Krsna seeks to remind humanity of the inherent strength within each individual to overcome challenges and restore harmony in the world.
+The tale of Krsna's triumph over Kaliya serves as a powerful metaphor, symbolizing the profound significance of maintaining compassion and forgiveness in victory or defeat. Through his playfulness, Krsna seeks to remind humanity of the inherent strength within each individual to overcome challenges and restore harmony in the world.
