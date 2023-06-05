@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Kaliya"
-caption: Compassion for everything.
+caption: Compassion over everything.
 date: '05-05-2023'
 accent_image: /assets/img/projects/Kaliya.png   
 image: 
