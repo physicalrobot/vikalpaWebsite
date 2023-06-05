@@ -13,7 +13,7 @@ image:
 sitemap: false
 ---
 
-There is a captivating ancient story that recounts the awe-inspiring triumph of Krsna over the formidable multiheaded serpent known as Kaliya. This tale takes place in the sacred Yamuna River, where Krsna's divine playfulness and unparalleled bravery shine through.
+There is an ancient story that recounts the triumph of Krsna over the formidable multiheaded serpent known as Kaliya. This tale takes place in the sacred Yamuna River, where Krsna's divine playfulness and unparalleled bravery shine through.
 
 According to the legend, the mighty serpent Kaliya had made the Yamuna River his abode, spreading fear and chaos among the local inhabitants. The river's waters became venomous, endangering the lives of all who dared to approach. Witnessing the suffering caused by Kaliya's presence, Krsna, in his youthful form, decided to confront the menacing serpent and restore harmony to the land.
 
