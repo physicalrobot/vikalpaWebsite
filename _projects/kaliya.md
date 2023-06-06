@@ -21,7 +21,7 @@ When Krsna appeared on the banks of the Yamuna with his flute, his divine aura i
 
 As Krsna dove into the depths of the Yamuna, he skillfully evaded Kaliya's venomous strikes, showcasing his agile movements and extraordinary strength. The Naga's multiple heads lunged towards Krsna, yet he remained undeterred, displaying his impossible prowess in the face of adversity.
 
-With every encounter, Krsna outwitted the Naga, dancing and leaping on its powerful hoods with effortless grace. The onlookers marveled at the spectacle, captivated by Krsna's bravery and the beauty of his movements. He fought with a child like grace; almost as if he was enjoying himself. The melodious tunes from Krsna's flute echoed through the air, enchanting the universe as he moved from one head to the next.
+With every encounter, Krsna outwitted the Naga, dancing and leaping on its powerful hoods with effortless grace. The onlookers marveled at the spectacle, captivated by Krsna's bravery and the beauty of his movements. The melodious tunes from Krsna's flute echoed through the air, enchanting the universe as he moved from one head to the next.
 
 Realizing the futility of his aggression, Kaliya's wives would approach Krsna, pleading for mercy and forgiveness. Krsna, always compassionate and wise, understood the importance of redemption and granted the Naga's wives their plea. He spares Kaliya's life but not without condition.
 
