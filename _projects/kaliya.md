@@ -19,7 +19,7 @@ According to the legend, the mighty serpent Kaliya had made the Yamuna River his
 
 When Krsna appeared on the banks of the Yamuna with his flute, his divine aura illuminated the surroundings, filling the hearts of the people with hope. As he stepped into the river, the waters quivered and the fish swam closer to witness the imminent clash of two powerful beings.
 
-As Krsna dived into the depths of the Yamuna, he skillfully evaded Kaliya's venomous strikes, showcasing his agile movements and extraordinary strength. The serpent's multiple heads lunged towards Krsna, yet he remained undeterred, displaying his divine prowess in the face of adversity.
+As Krsna dove into the depths of the Yamuna, he skillfully evaded Kaliya's venomous strikes, showcasing his agile movements and extraordinary strength. The serpent's multiple heads lunged towards Krsna, yet he remained undeterred, displaying his divine prowess in the face of adversity.
 
 With every encounter, Krsna outwitted the serpent, dancing and leaping on its powerful hoods with effortless grace. The onlookers marveled at the divine spectacle, captivated by Krsna's bravery and the beauty of his movements. The melodious tunes from Krsna's flute echoed through the air, enchanting both nature and the heavens.
 
