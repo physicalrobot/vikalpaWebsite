@@ -17,11 +17,11 @@ There is an ancient story that recounts the triumph of Krsna over the formidable
 
 According to the legend, the mighty Naga Kaliya had made the Yamuna River his abode, spreading fear and chaos among the local inhabitants. The river's waters became venomous, endangering the lives of all who dared to approach. Witnessing the suffering caused by Kaliya's presence, Krsna, in his youthful form, decided to confront the menacing Naga and restore harmony to the land.
 
-When Krsna appeared on the banks of the Yamuna with his flute, his divine aura illuminated the surroundings, filling the hearts of the people with hope. As he stepped into the river, the waters quivered and the fish swam closer to witness the imminent clash of two powerful beings.
+When Krsna appeared on the banks of the Yamuna with his flute, his divine aura illuminated the surroundings, inspiring hope among the villagers. As he stepped into the river, the waters quivered and the fish swam closer to witness the imminent clash of two powerful beings.
 
 As Krsna dove into the depths of the Yamuna, he skillfully evaded Kaliya's venomous strikes, showcasing his agile movements and extraordinary strength. The Naga's multiple heads lunged towards Krsna, yet he remained undeterred, displaying his impossible prowess in the face of adversity.
 
-With every encounter, Krsna outwitted the Naga, dancing and leaping on its powerful hoods with effortless grace. The onlookers marveled at the spectacle, captivated by Krsna's bravery and the beauty of his movements.  The melodious tunes from Krsna's flute echoed through the air, enchanting the universe.
+With every encounter, Krsna outwitted the Naga, dancing and leaping on its powerful hoods with effortless grace. The onlookers marveled at the spectacle, captivated by Krsna's bravery and the beauty of his movements. He fought with a child like grace; almost as if he was enjoying himself. The melodious tunes from Krsna's flute echoed through the air, enchanting the universe as he moved from one head to the next.
 
 Realizing the futility of his aggression, Kaliya's wives would approach Krsna, pleading for mercy and forgiveness. Krsna, always compassionate and wise, understood the importance of redemption and granted the Naga's wives their plea. He spares Kaliya's life but not without condition.
 
