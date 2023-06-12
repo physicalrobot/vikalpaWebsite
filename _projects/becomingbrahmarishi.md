@@ -53,6 +53,9 @@ Vishwamitra emerged from his arduous trials as a beacon of light, radiating the 
 
 The tale of Vishwamitra's road to becoming a Brahmarishi serves as a testament to the indomitable power of the human spirit and its capacity for transcendence. It reminds us that even the most ambitious aspirations can be achieved through unwavering determination, self-discipline, and an unyielding thirst for spiritual evolution. His journey should inspire us to delve into the depths of our own souls, and discover the boundless potential that lies within.
 
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
+![alt text](/assets/img/projects/BecomingBrahmarishi.png)
 
 
