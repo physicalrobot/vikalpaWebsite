@@ -25,7 +25,6 @@ sitemap: false
  His thoughts were only reassured by the cries of his wife that erupted right after. This time when he was away, she had created a child through the mystical arts of Tantra in attempt to give herself some company. Her new son was keeping watch as she took a bath inside and hadn't had the opportunity to meet his father Shiva yet.
 
 
-
  Seeing the despair in his wife's eyes the full extent of his actions dawned on him. He had a moment of weakness and had allowed himself to become consumed by anger because of it. 
  Although at first he believed the boy's actions to be a threat to his ego, he now understood that it was his inability to control himself which dealt the real damage to his self worth. 
  
