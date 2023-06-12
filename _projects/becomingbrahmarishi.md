@@ -30,7 +30,7 @@ It wasn't long until those who dismissed him began taking notice. Besides his pe
 
 Once Trishanku, a king burdened by an insatiable desire to attain some form of celestial immortality, sought Vishwamitra's aid in fulfilling his audacious dream. Bound by his kingly ambitions, Trishanku yearned to ascend to the heavens, defying the natural order and attaining a place among the divine constellations.
 
-Intrigued by the king's similar unyielding resolve, Vishwamitra agreed to help him with this herculean task. Utilizing his profound knowledge of mystic rituals and the celestial arts, the sage meticulously crafted an elaborate ceremony, invoking the celestial beings to manifest Trishanku's celestial journey.
+Intrigued by the king's similar unyielding resolve, Vishwamitra agreed to help him with this herculean task. Utilizing his profound knowledge of mystic rituals and the celestial arts, the sage meticulously crafted an elaborate ceremony, invoking the celestial beings to manifest Trishanku's journey.
 
 But as the grand ritual unfolded, the divine beings, loyal to the established cosmic order, staunchly refused to accommodate Trishanku's desire to enter the celestial realm. Their rejection echoed through the heavens, sending tremors of disappointment through the hearts of both king and sage.
 
