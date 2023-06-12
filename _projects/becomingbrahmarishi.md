@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Becoming Brahmarishi"
-caption: With us always.
+caption: Transcendant resolve.
 date: '12-06-2023'
 accent_image: /assets/img/projects/BecomingBrahmarishi.png   
 image: 
