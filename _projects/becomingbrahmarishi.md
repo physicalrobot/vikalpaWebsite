@@ -32,7 +32,7 @@ Once Trishanku, a king burdened by an insatiable desire to attain some form of c
 
 Intrigued by the king's similar unyielding resolve, Vishwamitra agreed to help him with this herculean task. Utilizing his profound knowledge of mystic rituals and the celestial arts, the sage meticulously crafted an elaborate ceremony, invoking the celestial beings to manifest Trishanku's journey.
 
-But as the grand ritual unfolded, the divine beings, loyal to the established cosmic order, staunchly refused to accommodate Trishanku's desire to enter the celestial realm. Their rejection echoed through the heavens, sending tremors of disappointment through the hearts of both king and sage.
+But as the grand ritual unfolded, the divine beings, loyal to the established cosmic order, staunchly refused to accommodate Trishanku's desire to enter the celestial realm. Their rejection echoed throughout the heavens, sending tremors of disappointment through the hearts of both king and sage.
 
 Undeterred by this celestial denial, Vishwamitra, fueled by his indomitable determination, resolved to craft a new destiny for Trishanku. With his mystical prowess and unwavering devotion, the sage invoked his own power, creating a parallel heavenly abode within the earthly realm, mirroring the celestial realm itself.
 
