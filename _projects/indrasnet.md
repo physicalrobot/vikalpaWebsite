@@ -22,7 +22,7 @@ According to Hindu cosmology, Indra is the ruler of higher realms. In his palace
 
 The crucial idea behind Indra's Net is that every jewel, representing an individual, reflects the entire net and all the other jewels within it. When any jewel changes or moves, it sends ripples through the entire net, affecting all other jewels. This interconnectedness implies that all things are intimately connected and influence one another. 
 
-Every individual is interconnected with and dependent on everything else. Each person's actions and experiences have ripple effects that reverberate through the entire web of existence. Karma is just the natural consequence of existence. This interconnectedness is not limited to human beings but extends to all forms of life and even to inanimate objects.
+Every individual is interconnected with and dependent on everything else. Each person's actions and experiences have ripple effects, <span style="color:turquoise"> कर्म</span>(Karma), that reverberate through the entire web of existence. This interconnectedness is not limited to human beings but extends to all forms of life and even to inanimate objects.
 
 The concept of Indra's Net encourages a shift in perspective from individuality to a recognition of the underlying unity of all things. It invites us to perceive the world as an interdependent and interconnected whole rather than a collection of isolated entities. By understanding our connection to everything else, we can develop a sense of empathy, compassion, and responsibility towards the world.
 
