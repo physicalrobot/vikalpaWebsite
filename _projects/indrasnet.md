@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Indra's Net"
-caption: Transcendant resolve.
+caption: We are one.
 date: '20-06-2023'
 accent_image: /assets/img/projects/IndrasWeb.png   
 image: 
