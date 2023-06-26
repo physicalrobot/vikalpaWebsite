@@ -19,7 +19,7 @@ As the battle between the Pandavas and the Kauravas rages on, Arjuna finds himse
 
 ![alt text](/assets/img/projects/viratrupa2-bottom.png)
 
-With immense compassion and love, <span style="color:turquoise">Kṛṣṇa</span> responds to Arjuna's plea for clarity. He assures Arjuna that he will reveal his supreme form, a manifestation of his true cosmic nature. As the battlefield becomes a sacred stage for the cosmic unveiling, <span style="color:turquoise">Kṛṣṇa's</span> majestic presence shines forth. Arjuna, overwhelmed by curiosity and reverence while also being desperate for understanding was the only one who to experience it. 
+With immense compassion and love, <span style="color:turquoise">Kṛṣṇa</span> responds to Arjuna's plea for clarity. He assures Arjuna that he will reveal his supreme form, a manifestation of his true cosmic nature. As the battlefield becomes a sacred stage for the cosmic unveiling, <span style="color:turquoise">Kṛṣṇa's</span> majestic presence shines forth. Arjuna, overwhelmed by curiosity and reverence while also being desperate for understanding was the only one who could experience it. 
 
 
 ![alt text](/assets/img/projects/viratrupa2-top.png)
