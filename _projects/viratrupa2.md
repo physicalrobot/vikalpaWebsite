@@ -40,7 +40,7 @@ Arjuna's vision penetrates further into the 14 worlds described in Vedic cosmolo
  
  </ul>
 
-Each of these worlds had its own unique characteristics and inhabitants. They reflected the infinite diversity prevalent in the cosmos. He see's the lives of other-worldly creatures, humans, plants and animals as they go through similar rites of passage. He follows them until they eventually pass away only to return in the form of the next generation. 
+Each of these worlds had its own unique characteristics and inhabitants. They reflected the infinite diversity prevalent in the cosmos. He sees the lives of other-worldly creatures, humans, plants and animals as they go through similar rites of passage. He follows them until they eventually pass away only to return in the form of the next generation. 
 
 
 In the vision, Arjuna comprehends the interconnectedness of all these realms and their significance in the grand tapestry of the universe.  He now understands the inevitability of their fates, truly recognizing the <span style="color:turquoise">Sanātana Dharma</span> (universal-dharma) for what it is. The experience shocks Arjuna into realizing his own place within this vast cosmic web. He understands that his duty as a warrior is not limited to the earthly realm alone but is intertwined with the harmonious functioning of the entire universe.
