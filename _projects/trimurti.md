@@ -3,9 +3,9 @@ layout: project
 title: "Trimurti"
 caption: The cosmic triad.
 date: '31-07-2023'
-accent_image: /assets/img/projects/Trimurti.png   
+accent_image: /assets/img/projects/croppedtrimurti1.png   
 image: 
-  path: /assets/img/projects/Trimurti.png  
+  path: /assets/img/projects/croppedtrimurti1.png  
   width:  100%
   height: auto
   object-fit: contain
