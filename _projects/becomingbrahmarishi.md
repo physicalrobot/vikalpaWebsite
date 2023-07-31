@@ -45,7 +45,7 @@ Such was Vishwamitra's mastery over the cosmos that he managed to subvert the di
 
 
 
-His ceaseless pursuit of enlightenment was further fueled by his encounter with the celestial enchantress Menaka. Drawn to Vishwamitra's resolute determination, she attempted to sway him from his sacred path. In a dance of seduction and temptation, she sought to distract him from his meditation. But the great sage, resolute and steadfast, chose the path of renunciation, resisting the allure of the ephemeral.
+His ceaseless pursuit of enlightenment was further fueled by his encounter with the celestial enchantress Menaka. Drawn to Vishwamitra's resolute determination, she sought to distract him from his meditation with a dance of seduction and temptation. But the great sage, resolute and steadfast, chose the path of renunciation, resisting her allure. 
 
 As the eons passed, Vishwamitra's penance reached unparalleled heights, and the Gods themselves took notice. Impressed by his unwavering devotion and unyielding spirit, Lord Brahma, the creator of the universe, finally bestowed upon him the exalted title of Brahmarishi, a sage whose wisdom encompasses the entire cosmos. A true equal to the sage Vashishta. 
 
