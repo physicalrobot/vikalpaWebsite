@@ -18,7 +18,10 @@ Swami Vivekananda, born as Narendranath Datta, was not only a spiritual luminary
 [Vivekananda's speech at the World Parliament of Religion, Chicago, resonates across the globe, piercing the veil of dogmas and instigating a quest for self-realization. He began, "Sisters and Brothers of America, It fills my heart with joy unspeakable to rise in response to the warm and cordial welcome which you have given us." His speech was not only a discourse on religious harmony but also a clarion call for human potential. ](https://youtu.be/I5_EKI4XRtc)
 
 Vivekananda did not perceive humans as weak, sinful beings, bound by destiny or external circumstances. Instead, he envisioned us as lions, capable of carving our path, facing adversities, and transcending limitations. His philosophy encapsulated the essence of strength and courage innate in every individual. He believed that it is our self-belief that defines our destiny, not our circumstances. Vivekananda unapologetically rejected the concept of being born a sinner. It couldn’t be further from the truth.
-The Swami's teachings reflect a powerful quote that encapsulates his philosophy, "You are the creator of your own destiny." He urges us to recognize the immense power residing within us, rather than seeking external validation or approval. He believed that we are not sheep, meekly accepting life's trials and tribulations, but lions, capable of overcoming any obstacles in our path.
+
+>You are the creator of your own destiny. 
+
+He urges us to recognize the immense power residing within us, rather than seeking external validation or approval. He believed that we are not sheep, meekly accepting life's trials and tribulations, but lions, capable of overcoming any obstacles in our path.
 His teachings inspire us to foster inner strength and resilience, to see beyond our current struggles and recognize the latent power within us. He wanted us to understand that we could create our destiny, that we are not helpless spectators but active participants in this grand play of life.
 
 ---
