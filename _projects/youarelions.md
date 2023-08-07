@@ -36,7 +36,7 @@ In his speech at the World Parliament of Religion, Chicago, he presented Hinduis
 He introduced the West to the concept of 'many paths, one truth' inherent in Hinduism, a revolutionary idea in a world fraught with religious conflicts. He emphasized that all religions, in essence, seek the same truth and thus should coexist in harmony.
 Vivekananda's teachings of Advaita Vedanta transcended religious boundaries. He taught that divinity lies within each individual, irrespective of their religion, race, or social status. This was a radical concept, especially in the West, where the divine was often perceived as an external, supreme entity.
 His philosophy of self-realization as a path to spiritual enlightenment resonated deeply with the Western audience, attracting intellectuals, scholars, and spiritual seekers alike. He established the Vedanta Society in New York to disseminate the teachings of Vedanta, which continues to foster interfaith dialogue and spiritual growth.
-Swami Vivekananda's contribution to the spiritual and cultural exchange between East and West is immense. He introduced the profound philosophy of Hinduism and Advaita Vedanta to the West, fostering greater understanding and acceptance of diverse spiritual traditions. His teachings continue to inspire millions around the globe, transcending geographical, cultural, and religious boundaries.
+Swami Vivekananda's contribution to the spiritual and cultural exchange between East and West is immense. By representing the profound philosophy of Hinduism in the West his teachings have continued to inspire millions around the globe, transcending geographical, cultural, and religious boundaries.
 
 
 
