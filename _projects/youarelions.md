@@ -32,6 +32,8 @@ Vivekananda's teachings of Advaita Vedanta transcended religious boundaries. He 
 His philosophy of self-realization as a path to spiritual enlightenment resonated deeply with the Western audience, attracting intellectuals, scholars, and spiritual seekers alike. He established the Vedanta Society in New York to disseminate the teachings of Vedanta, which continues to foster interfaith dialogue and spiritual growth.
 Swami Vivekananda's contribution to the spiritual and cultural exchange between East and West is immense. He introduced the profound philosophy of Hinduism and Advaita Vedanta to the West, fostering greater understanding and acceptance of diverse spiritual traditions. His teachings continue to inspire millions around the globe, transcending geographical, cultural, and religious boundaries.
 
+---
+---
 <h3>This is an excerpt that I read from him that really stuck with me:</h3> 
 
 > We have hypnotised ourselves into this thought that we are little, that we are born, and that we are going to die, and into a constant state of fear.
