@@ -46,7 +46,9 @@ Saraswati is the Goddess of knowledge, music, art, speech, wisdom and learning. 
 
 Civilization can't develop without Buddhi (<span style="color:turquoise">बुद्धि</span>). Progress hinges on the ability to capture, compound, and convey knowledge. This underscores the centrality of language, an organized expression of thought and a testament to enduring intelligence.  
 
-The piece above uses real undeciphered Harappan script to represent this theme specifically. While I've yet to witness the ancient Harappan ruins firsthand, I recently explored some petroglyphs in Utah, and the experience was simply riveting. Here are few pictures of another ancient societies iconography. It's truly amazing how their images and messages can still be here after many millenia of change. But keep in mind, their message isn't as lost as it is replaced. They are now  profound statements of their existence, self-awareness, and Buddhi (<span style="color:turquoise">बुद्धि</span> ).
+The piece above uses real undeciphered Harappan script to represent this theme specifically. While I've yet to witness the ancient Harappan ruins firsthand, I recently explored some petroglyphs in Utah, and the experience was simply riveting. 
+
+Here are few pictures of another ancient societies iconography. It's truly amazing how their images and messages can still be here after many millenia of change. But keep in mind, their message isn't as lost as it is replaced. They are now  profound statements of their existence, self-awareness, and Buddhi (<span style="color:turquoise">बुद्धि</span> ).
 
 
 
