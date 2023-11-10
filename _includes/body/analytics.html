@@ -1,40 +1,41 @@
 {% if site.google_analytics %}
 <script>
-  function loadGA4() {
-    var gtag_id = '{{ site.google_analytics_ga4 }}';
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  (function() {
+    function loadGA4() {
+      var gtag_id = '{{ site.google_analytics }}';
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', gtag_id);
+    }
 
-    gtag('config', gtag_id);
-  }
-
-  /* Check for consent */
-  if (navigator.CookiesOK) {
-    loadGA4();
-  } else if (document.cookie.indexOf("hy--cookies-ok=true") > -1) {
-    loadGA4();
-  } else {
-    document.addEventListener('hy--cookies-ok', function () {
+    /* Check for consent */
+    if (navigator.CookiesOK) {
       loadGA4();
+    } else if (document.cookie.indexOf("hy--cookies-ok=true") > -1) {
+      loadGA4();
+    } else {
+      document.addEventListener('hy--cookies-ok', function() {
+        loadGA4();
+      });
+    }
+
+    /* Track page views on single page app */
+    var pushStateEl = document.getElementById('_pushState');
+    var timeoutId;
+    pushStateEl.addEventListener('hy-push-state-load', function() {
+      window.clearTimeout(timeoutId);
+      timeoutId = window.setTimeout(function() {
+        gtag('event', 'page_view', { 'page_path': window.location.pathname });
+      }, 500);
     });
-  }
 
-  /* Track page views on single page app */
-  var pushStateEl = document.getElementById('_pushState');
-  var timeoutId;
-  pushStateEl.addEventListener('hy-push-state-load', function() {
-    window.clearTimeout(timeoutId);
-    timeoutId = window.setTimeout(function() {
-      gtag('event', 'page_view', { 'page_path': window.location.pathname });
-    }, 500);
-  });
-
-  /* Load GA4 script */
-  window.loadJSDeferred('https://www.googletagmanager.com/gtag/js?id=' + gtag_id);
-}
+    /* Load GA4 script */
+    window.loadJSDeferred('https://www.googletagmanager.com/gtag/js?id=' + gtag_id);
+  })();
 </script>
 {% endif %}
+
 
 
 <!-- {% if site.google_analytics %}
