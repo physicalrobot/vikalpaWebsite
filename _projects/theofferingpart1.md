@@ -42,7 +42,7 @@ The great master Bodhidharma, responsible for spreading the core principles of t
 The emperor was a devout Buddhist, knew the sutras by heart, and often donated his wealth to spread the ideology. One day, the Emperor approached Bodhidharma and asked what merits he would receive for creating so many temples. The great spiritual master, known for his bold and immediate replies, proclaimed that the emperor would receive absolutely nothing in return. A famous argument then ensued, where Bodhidharma explained the doctrine of Sunyata, the voidness that constitutes ultimate reality. When one realizes the emptiness of inherent existence, it fosters compassion for all beings, since they are not fundamentally separate from oneself. It's from that compassion that we should act, not because of the selfish benefits that may come afterward. In fact, the spread of this philosophy explicitly aims to get its practitioners to detach themselves from the pain and suffering that comes with perceiving <span style="color:turquoise">temporary</span> conditions as <span style="color:turquoise">permanent</span>. Spiritual progress is an empowerment that comes from within, not a benefit we are blessed with by an outside force.
 
 
-<span style="color:turquoise"> [The Offering - Part 2](https://vikalpa.xyz/projects/part2theoffering/ )</span> 
+<span style="color:turquoise"> [The Offering - Part 2](https://vikalpa.xyz/projects/theofferingpart2/)</span> 
 
 
 
