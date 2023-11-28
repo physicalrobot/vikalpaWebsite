@@ -1,11 +1,11 @@
 ---
 layout: project
-title: "(Part 2) The Offering"
-caption: Nothing.
+title: "The Offering - Part 1"
+caption: Everything.
 date: '24-11-2023'
-accent_image: /assets/img/projects/ganpati3.png   
+accent_image: /assets/img/projects/TheOffering.png   
 image: 
-  path: /assets/img/projects/ganpati3.png
+  path: /assets/img/projects/TheOffering.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png
@@ -26,7 +26,7 @@ Although this lesson has been echoed throughout time, so many still miss the poi
 ![alt text](/assets/img/projects/TheOffering.png)
 
 
-King Kubera thought he knew. It wasn't until he almost lost everything that he realized how wrong he was. He had accumulated an enormous amount of wealth and was incredibly full of himself because of it. He was filled with so much ego that he believed himself qualified to host a banquet for the gods themselves. The king believed that by impressing the divine with his material luxury they will come to think more highly of him. 
+King Kubera thought he knew. It wasn't until he almost lost everything that he realized how wrong he was. He had accumulated an enormous amount of wealth and was incredibly full of himself because of it. He was filled with so much ego that he believed himself qualified to host a banquet for the gods themselves. The king believed that by impressing them with his material luxury they will come to think more highly of him. 
 
 Surprisingly, Shiva accepted the invitation, but only to teach the ambitious king a lesson. Instead of all of them going, he sent his son Lord Ganesha in their place. Although Kubera was surprised to find only the young Ganesha arrive, they began the feast delighted nonetheless. Very quickly, things began to take a turn when Ganesha's appetite started to grow exponentially. Everything that came into the dining room was eaten without a moment to spare. The once wealthy King began to feel a lot less powerful as Ganesha continued to eat without any satisfaction in sight. Disheveled and scared, the King ran to Shiva for help before Ganesha's voracious appetite plunged his kingdom into famine. Shiva smiled and gave Kubera a small bowl of rice, telling the frightened king to offer this instead. When Kubera hurried back and offered Ganesh the bowl of rice, the young elephant-headed god immediately smiled and became completely satisfied.
 
@@ -42,6 +42,7 @@ The great master Bodhidharma, responsible for spreading the core principles of t
 The emperor was a devout Buddhist, knew the sutras by heart, and often donated his wealth to spread the ideology. One day, the Emperor approached Bodhidharma and asked what merits he would receive for creating so many temples. The great spiritual master, known for his bold and immediate replies, proclaimed that the emperor would receive absolutely nothing in return. A famous argument then ensued, where Bodhidharma explained the doctrine of Sunyata, the voidness that constitutes ultimate reality. When one realizes the emptiness of inherent existence, it fosters compassion for all beings, since they are not fundamentally separate from oneself. It's from that compassion that we should act, not because of the selfish benefits that may come afterward. In fact, the spread of this philosophy explicitly aims to get its practitioners to detach themselves from the pain and suffering that comes with perceiving <span style="color:turquoise">temporary</span> conditions as <span style="color:turquoise">permanent</span>. Spiritual progress is an empowerment that comes from within, not a benefit we are blessed with by an outside force.
 
 
+<span style="color:turquoise"> [The Offering - Part 2](https://vikalpa.xyz/projects/part2theoffering/ )</span> 
 
 
 
