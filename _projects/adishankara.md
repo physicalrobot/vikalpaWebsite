@@ -2,7 +2,7 @@
 layout: project
 title: "Shankaracharya"
 caption: Advaita Vedanta.
-date: '17-11-2023'
+date: '22-01-2024'
 accent_image: /assets/img/projects/shankaracharya.png   
 image: 
   path: /assets/img/projects/shankaracharya.png
