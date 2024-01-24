@@ -36,7 +36,7 @@ It is sometimes difficult to explain what the philosophies themselves propose wi
 
 
 <span style="color:turquoise">Atman ≠ Soul</span>
-Atma or Atman is a fundamental principle in Indian philosophy and spirituality. Atma or Atman is a fundamental principle in Indian philosophy and spirituality. The Sanskrit root 'ata' means ‘that which is in constant motion’. The Atma is always in movement from one body to the next, a constant flow maintained by the cycle of birth and death. The ultimate pillars of Hinduism come from understanding the difference between the words atma and prakriti. While Prakriti is the aspect of the universe that is always in flux and subject to evolution, the Atma is immutable and remains untouched.
+Atma or Atman is a fundamental principle in Indian philosophy and spirituality. The Sanskrit root 'ata' means ‘that which is in constant motion’. The Atma is always in movement from one body to the next, a constant flow maintained by the cycle of birth and death. The ultimate pillars of Hinduism come from understanding the difference between the words atma and prakriti. While Prakriti is the aspect of the universe that is always in flux and subject to evolution, the Atma is immutable and remains untouched.
 
 
 <span style="color:turquoise">Brhaman ≠ God/Spirit</span> 
