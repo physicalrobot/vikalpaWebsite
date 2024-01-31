@@ -19,13 +19,9 @@ Two concepts that are fundamental to understanding Hinduism are <span style="col
 
 Dharma is a deeper concept, referring to the path in one's life that resonates most with them. It is a calling, a way of life that leads to an optimum livelihood for both oneself and those around them.
 
-
-<h1> The Great Preserver. </h1>
-
 <span style="color:turquoise">Vishwadharma</span> represents the entire Universe's dharma. Just as one's dharma acts as a compass to navigate their life, Vishwadharma serves as the path that will blossom the best reality for all. Preserving the integrity of the Universe's dharmic compass is precisely the role that Lord Vishnu plays in the Hindu pantheon. This is a role he has carried out time and again by manifesting as different Avatars and vanquishing sources of dharmic imbalance.
 
 When he incarnated as his 7th Avatar, <span style="color:turquoise">Sri Rama</span>, he ushered in a legendary era of righteousness. He conquered the evils of his time and improved the lives of all those he came into contact with, including his enemies. He lived a poetically beautiful life, riddled with challenges which he overcame in exemplary fashion. Rama serves as a guide for Hindus today, inspiring them to find the best possible reactions to their situations. Being the embodiment of perfection, he is a guide for those looking to be bold and righteous leaders in every aspect of their lives.
-
 
 <h1> Deity. </h1>
 
