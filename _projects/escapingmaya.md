@@ -25,7 +25,7 @@ In Buddhism, the following six realms of <span style="color:turquoise">Samsara</
 
 - <span style="color:turquoise">असुर</span> (Titan) - Symbolizes jealousy and competitiveness. Beings here enjoy many pleasures but are constantly in conflict, driven by envy of the gods.
 
-- <span style="color:turquoise">तिर्यग्योनि</span> (Animal) - Embodies ignorance, instinct, and survival. Beings here are driven by basic needs and lack the capacity for higher reasoning or spiritual development.
+- <span style="color:turquoise">तिर्यग्योनि</span> (Animal) - Embodies ignorance, instinct, and survival. Beings here are driven by basic needs and lack the capacity for higher reasoning or spiritual development. They are stagnated and complacent from being content.
 
 - <span style="color:turquoise">प्रेत</span> (Hungry Ghost) - Characterized by insatiable craving and addiction. Beings suffer from extreme hunger and thirst but cannot find satisfaction.
 
