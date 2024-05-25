@@ -22,6 +22,8 @@ Shiva is that which is not, the forever unchanging constant <span style="color:t
 
 Shakti is where we get our unbridled strength from. She manifests courage, bravery, and the will to transcend insurmountable odds in the form of Durga. She represents the timeless and formless Mother Nature that brings about the inevitable death of our egos as Maa Kali. She represents the abundance of wealth, fortune, power, and fertility in the form of Lakshmi. And she also represents knowledge, wisdom, art, and learning as Saraswati. 
 
+---
+
  The Shivling is a powerful symbol that is used to worship the union between the physical world and the spiritual world. Its the dance between the formless (Shiva) and the form (Shakti). Shiva represents the eternal <span style="color:turquoise">seer</span> and Shakti represents that which is <span style="color:turquoise">seen</span>.
 
 <p align="center">
