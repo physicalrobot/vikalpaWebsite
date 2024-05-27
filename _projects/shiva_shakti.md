@@ -3,9 +3,9 @@ layout: project
 title: "Shiva / Shakti"
 caption: The Observer and the Observed.
 date: '24-05-2024'
-accent_image: /assets/img/projects/sivashakti.png   
+accent_image: /assets/img/projects/shivashakticentered.png   
 image: 
-  path: /assets/img/projects/sivashakti.png
+  path: /assets/img/projects/shivashakticentered.png
   width:  100%
   height: auto
   object-fit: contain
