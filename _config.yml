@@ -49,12 +49,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Gallery
-    url:               /projects/
- - title:              Shop
-    url:               https://www.vikalpa-shop.xyz/
+  - title: Blog
+    url: /blog/
+  - title: Gallery
+    url: /projects/
+  - title: "Shop"
+    url: https://www.vikalpa-shop.xyz/
   # - title:             Résumé*
   #   url:               /resume/
   # - title:             Documentation
