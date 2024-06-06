@@ -3,9 +3,9 @@ layout: project
 title: "Buddhi"
 caption: Ancestral Intelligence.
 date: '21-08-2023'
-accent_image: /assets/img/projects/Buddhi.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Buddhi.png   
 image: 
-  path: /assets/img/projects/Buddhi.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Buddhi.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png

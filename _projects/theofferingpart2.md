@@ -3,9 +3,9 @@ layout: project
 title: "The Offering - Part 2"
 caption: Nothing.
 date: '24-11-2023'
-accent_image: /assets/img/projects/ganpati3.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/ganpati3.png   
 image: 
-  path: /assets/img/projects/ganpati3.png
+  path: https://storage.googleapis.com/vikalpa_artwork/ganpati3.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png
@@ -23,7 +23,7 @@ Although this lesson has been echoed throughout time, so many still miss the poi
 
 <h2>But what makes us light like butter?</h2>
 
-![alt text](/assets/img/projects/TheOffering.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/TheOffering.png)
 
 
 King Kubera thought he knew. It wasn't until he almost lost everything that he realized how wrong he was. He had accumulated an enormous amount of wealth and was incredibly full of himself because of it. He was filled with so much ego that he believed himself qualified to host a banquet for the gods themselves. The king believed that by impressing the divine with his material luxury they will come to think more highly of him. 
@@ -32,7 +32,7 @@ Surprisingly, Shiva accepted the invitation, but only to teach the ambitious kin
 
 Capitalism may afford individuals a better living tangibly, but the spiritual laws of the universe are indifferent to capital. An honest karmic contribution is one conveyed with sincerity and an absence of pride. Karma yoga is a path only for those who are willing to serve selflessly. A humble bowl of rice satisfied Ganesha because it was a true offering, which, if done correctly, is enough regardless of what is physically being offered.
 
-![alt text](/assets/img/projects/ganpati3.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/ganpati3.png)
 
 
 ---

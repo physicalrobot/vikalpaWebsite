@@ -3,9 +3,9 @@ layout: project
 title: "Yajña"
 caption: Sacrifice.
 date: '10-10-2023'
-accent_image: /assets/img/projects/Yajna.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Yajna.png  
 image: 
-  path: /assets/img/projects/Yajna.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Yajna.png
   width:  100%
   height: auto
   object-fit: contain

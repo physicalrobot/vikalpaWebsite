@@ -3,9 +3,9 @@ layout: project
 title: "Mahavira"
 caption: The Courageous One.
 date: '28-08-2023'
-accent_image: /assets/img/projects/Mahabali.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Mahabali.png 
 image: 
-  path: /assets/img/projects/Mahabali.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Mahabali.png
   width:  100%
   height: auto
   object-fit: contain

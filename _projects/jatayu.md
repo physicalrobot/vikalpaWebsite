@@ -3,9 +3,9 @@ layout: project
 title: "Jatayu"
 caption: (Part 2 of 2) Vindication. 
 date: '12-04-2023'
-accent_image: /assets/img/projects/jatayu.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/jatayu.png
 image: 
-  path: /assets/img/projects/jatayu.png
+  path: https://storage.googleapis.com/vikalpa_artwork/jatayu.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png

@@ -3,9 +3,9 @@ layout: project
 title: "Swayamvara"
 caption: Finding Ram.
 date: '01-03-2023'
-accent_image: /assets/img/projects/Swayamvara.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Swayamvara.png  
 image: 
-  path: /assets/img/projects/Swayamvara.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Swayamvara.png
   width:  100%
   height: auto
   object-fit: contain

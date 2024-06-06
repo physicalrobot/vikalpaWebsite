@@ -3,9 +3,9 @@ layout: project
 title: "Indra's Net"
 caption: We are one.
 date: '20-06-2023'
-accent_image: /assets/img/projects/IndrasWeb.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/IndrasWeb.png   
 image: 
-  path: /assets/img/projects/IndrasWeb.png
+  path: https://storage.googleapis.com/vikalpa_artwork/IndrasWeb.png
   width:  100%
   height: auto
   object-fit: contain

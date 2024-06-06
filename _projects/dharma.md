@@ -3,9 +3,9 @@ layout: project
 title: "Dharma"
 caption: Spritiual initiative.
 date: '29-03-2024'
-accent_image: /assets/img/projects/DharmaBull.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/DharmaBull.png   
 image: 
-  path: /assets/img/projects/DharmaBull.png
+  path: https://storage.googleapis.com/vikalpa_artwork/DharmaBull.png
   width:  100%
   height: auto
   object-fit: contain

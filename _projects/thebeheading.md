@@ -3,9 +3,9 @@ layout: project
 title: "The Beheading"
 caption: Regret.
 date: '27-03-2023'
-accent_image: /assets/img/projects/TheBeheading.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/TheBeheading.png  
 image: 
-  path: /assets/img/projects/TheBeheading.png  
+  path: https://storage.googleapis.com/vikalpa_artwork/TheBeheading.png
   width:  100%
   height: auto
   object-fit: contain

@@ -3,9 +3,9 @@ layout: project
 title: "Escaping Maya"
 caption: Waking up is an endeavor we're all a part of.
 date: '05-04-2024'
-accent_image: /assets/img/projects/maya.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/maya.png   
 image: 
-  path: /assets/img/projects/maya.png
+  path: https://storage.googleapis.com/vikalpa_artwork/maya.png
   width:  100%
   height: auto
   object-fit: contain

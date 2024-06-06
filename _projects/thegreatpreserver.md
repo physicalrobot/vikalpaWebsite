@@ -3,9 +3,9 @@ layout: project
 title: "The Great Preserver"
 caption: Vishwadharma.
 date: '30-01-2024'
-accent_image: /assets/img/projects/ram.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/ram.png   
 image: 
-  path: /assets/img/projects/ram.png
+  path: https://storage.googleapis.com/vikalpa_artwork/ram.png
   width:  100%
   height: auto
   object-fit: contain

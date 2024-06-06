@@ -3,9 +3,9 @@ layout: project
 title: "Retribution"
 caption: Selfless Devotion.
 date: '13-02-2022'
-accent_image: /assets/img/projects/Retribution.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Retribution.png   
 image: 
-  path: /assets/img/projects/Retribution.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Retribution.png
   width:  100%
   height: auto
   object-fit: contain

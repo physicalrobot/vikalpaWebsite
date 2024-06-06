@@ -3,9 +3,9 @@ layout: project
 title: "Shakti Maa"
 caption: Divine Feminine.
 date: '17-11-2023'
-accent_image: /assets/img/projects/ShaktiMaa.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/ShaktiMaa.png   
 image: 
-  path: /assets/img/projects/ShaktiMaa.png
+  path: https://storage.googleapis.com/vikalpa_artwork/ShaktiMaa.png
   width:  100%
   height: auto
   object-fit: contain

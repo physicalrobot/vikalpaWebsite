@@ -3,9 +3,9 @@ layout: project
 title: "You Are Lions"
 caption: Matter is your servant.
 date: '06-08-2023'
-accent_image: /assets/img/projects/SwamiV.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/SwamiV.png  
 image: 
-  path: /assets/img/projects/SwamiV.png
+  path: https://storage.googleapis.com/vikalpa_artwork/SwamiV.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png

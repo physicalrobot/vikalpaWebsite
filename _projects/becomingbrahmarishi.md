@@ -3,9 +3,9 @@ layout: project
 title: "Becoming Brahmarishi"
 caption: Transcendant resolve.
 date: '12-06-2023'
-accent_image: /assets/img/projects/BecomingBrahmarishi.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/BecomingBrahmarishi.png  
 image: 
-  path: /assets/img/projects/BecomingBrahmarishi.png
+  path: https://storage.googleapis.com/vikalpa_artwork/BecomingBrahmarishi.png
   width:  100%
   height: auto
   object-fit: contain

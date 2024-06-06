@@ -3,9 +3,9 @@ layout: project
 title: "Shankaracharya"
 caption: Advaita Vedanta.
 date: '22-01-2024'
-accent_image: /assets/img/projects/shankaracharya.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/shankaracharya.png   
 image: 
-  path: /assets/img/projects/shankaracharya.png
+  path: https://storage.googleapis.com/vikalpa_artwork/shankaracharya.png
   width:  100%
   height: auto
   object-fit: contain

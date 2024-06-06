@@ -3,9 +3,9 @@ layout: project
 title: "Baba Hanuman"
 caption: With us always.
 date: '08-02-2022'
-accent_image: /assets/img/projects/BabaHanuman.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/BabaHanuman.png
 image: 
-  path: /assets/img/projects/BabaHanuman.png
+  path: https://storage.googleapis.com/vikalpa_artwork/BabaHanuman.png
   width:  100%
   height: auto
   object-fit: contain

@@ -3,9 +3,9 @@ layout: project
 title: "Ravan"
 caption: How the passionate reign.
 date: '16-02-2023'
-accent_image: /assets/img/projects/Ravana.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/Ravana.png 
 image: 
-  path: /assets/img/projects/Ravana.png
+  path: https://storage.googleapis.com/vikalpa_artwork/Ravana.png
   width:  100%
   height: auto
   object-fit: contain

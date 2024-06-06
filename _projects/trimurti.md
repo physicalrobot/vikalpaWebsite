@@ -3,9 +3,9 @@ layout: project
 title: "Trimurti"
 caption: The cosmic triad.
 date: '31-07-2023'
-accent_image: /assets/img/projects/croppedtrimurti1.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/croppedtrimurti1.png
 image: 
-  path: /assets/img/projects/croppedtrimurti1.png  
+  path: https://storage.googleapis.com/vikalpa_artwork/croppedtrimurti1.png
   width:  100%
   height: auto
   object-fit: contain

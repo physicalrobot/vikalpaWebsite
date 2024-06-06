@@ -3,9 +3,9 @@ layout: project
 title: "Virat Rupa 2"
 caption: Sanātana Dharma.
 date: '23-06-2023'
-accent_image: /assets/img/projects/viratrupa2.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/viratrupa2.png   
 image: 
-  path: /assets/img/projects/viratrupa2.png  
+  path: https://storage.googleapis.com/vikalpa_artwork/viratrupa2.png
   width:  100%
   height: auto
   object-fit: contain
@@ -17,12 +17,12 @@ sitemap: false
 ---
 As the battle between the Pandavas and the Kauravas rages on, Arjuna finds himself filled with doubt and confusion about his duty as a warrior. Seeking guidance, he turns to his charioteer and guide, <span style="color:turquoise">Kṛṣṇa</span>.
 
-![alt text](/assets/img/projects/viratrupa2-bottom.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/viratrupa2-bottom.png)
 
 With immense compassion and love, <span style="color:turquoise">Kṛṣṇa</span> responds to Arjuna's plea for clarity. He assures Arjuna that he will reveal his supreme form, a manifestation of his true cosmic nature. As the battlefield becomes a sacred stage for the cosmic unveiling, <span style="color:turquoise">Kṛṣṇa's</span> majestic presence shines forth. Arjuna, overwhelmed by curiosity and reverence while also being desperate for understanding was the only one who could experience it. 
 
 
-![alt text](/assets/img/projects/viratrupa2-top.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/viratrupa2-top.png)
 
 
 <span style="color:turquoise">Kṛṣṇa's</span> form expands to an unimaginable scale, encompassing the entire universe. Arjuna's eyes traverse the three celestial systems known as: 
@@ -51,4 +51,4 @@ As the vision of the <span style="color:turquoise">विश्वरूप</spa
 -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
 
-![alt text](/assets/img/projects/viratrupa2.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/viratrupa2.png)

@@ -3,9 +3,9 @@ layout: project
 title: "Sampati"
 caption: (Part 1 of 2) Sacrifice. 
 date: '10-04-2023'
-accent_image: /assets/img/projects/sampati.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/sampati.png  
 image: 
-  path: /assets/img/projects/sampati.png
+  path: https://storage.googleapis.com/vikalpa_artwork/sampati.png
   # srcset: 
   #   1920w: /assets/img/projects/ArjunasAgony.png
   #   960w:  /assets/img/projects/ArjunasAgony.png

@@ -3,9 +3,9 @@ layout: project
 title: "Parabrahman"
 caption: The formlessness that eternally pervades everything.
 date: '20-03-2024'
-accent_image: /assets/img/projects/parabrahman12.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/parabrahman12.png
 image: 
-  path: /assets/img/projects/parabrahman12.png
+  path: https://storage.googleapis.com/vikalpa_artwork/parabrahman12.png
   width:  100%
   height: auto
   object-fit: contain
@@ -48,4 +48,4 @@ The balance between these gunas is fundamental to the inner workings of the univ
 The journey from the Parabrahman to the physical universe underscores the depth of ancient wisdom encapsulated in the <span style="color:turquoise">Puranas</span>, highlighting how these texts have navigated the complexities of existence and interconnectedness for millennia. It stands as a testament to the enduring insights of ancient philosophies, offering perspectives that remain relevant in understanding the fabric of reality today.
 
 
-![alt text](/assets/img/projects/expandedparabrahman1.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/expandedparabrahman1.png)

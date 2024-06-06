@@ -3,9 +3,9 @@ layout: project
 title: "Virat Rupa 1"
 caption: Everything, everywhere all in one.
 date: '16-03-2023'
-accent_image: /assets/img/projects/ViratRupa1.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/ViratRupa1.png   
 image: 
-  path: /assets/img/projects/ViratRupa1.png  
+  path: https://storage.googleapis.com/vikalpa_artwork/ViratRupa1.png
   width:  100%
   height: auto
   object-fit: contain

@@ -3,9 +3,9 @@ layout: project
 title: "Mental Clarity"
 caption: The moment comes into focus as I let everything else go.
 date: '02-01-2022'
-accent_image: /assets/img/mentalclarity.png   
+accent_image: https://storage.googleapis.com/vikalpa_artwork/mentalclarity.png   
 image: 
-  path: /assets/img/mentalclarity.png
+  path: https://storage.googleapis.com/vikalpa_artwork/mentalclarity.png
   width:  100%
   height: auto
   object-fit: contain
