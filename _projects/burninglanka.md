@@ -20,19 +20,21 @@ Hanuman has many names, each representing a characteristic he embodies. As a pil
 
 As <span style="color:turquoise">Mahavira</span>, which translates to "great courage," Hanuman provides the strength we need to face life's challenges. This goes beyond ordinary courage. To truly embody <span style="color:turquoise">Mahavira</span>, one must master four kinds of courage:
 
-<span style="color:turquoise">Ranveer</span>: Courage to act 
+<span style="color:turquoise">Ranveer</span>: Courage to act.
 
 <span style="color:turquoise">Gyanveer</span>: Courage to live up to his or her convictions in life.
 
 <span style="color:turquoise">Dayaveer</span>: Courage to express compassion.
 
-<span style="color:turquoise">Daanveer</span>: Courage to give where required
+<span style="color:turquoise">Daanveer</span>: Courage to give where required.
 
 Only one who is empowered with these four forms of courage is considered to be Mahavira, and truly ready to take on any challenge in life.
 
 ---
 
-The story depicted in this piece represents Hanuman's ability to execute his goals with utmost confidence and courage, never faltering, no matter the difficulty of the task. Upon entering the palace, Hanuman noticed Ravana seated on a towering throne, overshadowing his subordinates. Mahavira immediately made his presence known and confronted the evil king. As he issued his warning, Hanuman coiled his tail beneath himself, rising until he towered over Ravana. Despite being alone and surrounded by Ravana’s army, he maintained a steady gaze at the mighty king. As an emissary of Sri Ram, Hanuman aimed to deliver a strong message to the Demon King for his crimes.
+The story depicted in this piece represents Hanuman's ability to execute his goals with utmost confidence and courage, never faltering, no matter the difficulty of the task. 
 
-In a burst of anger, Ravana ordered his men to capture Hanuman and set his tail on fire. The Mahavira willingly allowed the soldiers to light his tail, only to use this to his advantage and wreak havoc across the kingdom. He set the entire city of Lanka ablaze as he darted in and out of houses, ultimately escaping back to Rama with vital information about Sita’s whereabouts.
+In Lanka, Hanuman delivered a ring from Rama to Sita, assuring her of Rama’s imminent arrival. When Hanuman offered to carry her back, Sita opted to wait for Rama’s rescue, aiming to restore honor to all those wronged by Ravana. Unable to take Sita with him, Hanuman resolved to leave a lasting message for Ravana instead, making his way to the heart of the enemy’s palace. Upon entering, Hanuman noticed Ravana seated on a towering throne, overshadowing his subordinates. <span style="color:turquoise">Mahavira</span> immediately made his presence known and confronted the evil king. As he issued his warning, Hanuman coiled his tail beneath himself, rising until he towered over Ravana. Despite being alone and surrounded by Ravana’s army, he maintained a steady gaze at the mighty king. As an emissary of Sri Ram, Hanuman aimed to deliver a strong message to the Demon King for his crimes.
+
+In a burst of anger, Ravana ordered his men to capture Hanuman and set his tail on fire. The <span style="color:turquoise">Mahavira</span> willingly allowed the soldiers to light his tail, only to use this to his advantage and wreak havoc across the kingdom. He set the entire city of Lanka ablaze as he darted in and out of houses, ultimately escaping back to Rama with vital information about Sita’s whereabouts.
 
