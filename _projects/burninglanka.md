@@ -20,13 +20,13 @@ Hanuman has many names, each representing a characteristic he embodies. As a pil
 
 As <span style="color:turquoise">Mahavira</span>, which translates to "great courage," Hanuman provides the strength we need to face life's challenges. This goes beyond ordinary courage. To truly embody <span style="color:turquoise">Mahavira</span>, one must master four kinds of courage:
 
-<span style="color:turquoise">Ranveer</span>: Courage to act.
+- <span style="color:turquoise">Ranveer</span>: Courage to act.
 
-<span style="color:turquoise">Gyanveer</span>: Courage to live up to his or her convictions in life.
+- <span style="color:turquoise">Gyanveer</span>: Courage to live up to his or her convictions in life.
 
-<span style="color:turquoise">Dayaveer</span>: Courage to express compassion.
+- <span style="color:turquoise">Dayaveer</span>: Courage to express compassion.
 
-<span style="color:turquoise">Daanveer</span>: Courage to give where required.
+- <span style="color:turquoise">Daanveer</span>: Courage to give where required.
 
 Only one who is empowered with these four forms of courage is considered to be Mahavira, and truly ready to take on any challenge in life.
 
