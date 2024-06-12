@@ -28,7 +28,7 @@ As <span style="color:turquoise">Mahavira</span>, which translates to "great cou
 
 - <span style="color:turquoise">Daanveer</span>: Courage to give where required.
 
-Only one who is empowered with these four forms of courage is considered to be Mahavira, and truly ready to take on any challenge in life.
+Only one who is empowered with these four forms of courage is considered to be <span style="color:turquoise">Mahavira</span>, and truly ready to take on any challenge in life.
 
 ---
 
