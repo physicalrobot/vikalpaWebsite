@@ -3,9 +3,9 @@ layout: project
 title: "Shiva / Shakti"
 caption: The Observer and the Observed.
 date: '24-05-2024'
-accent_image: https://storage.googleapis.com/vikalpa_artwork/shivashakticentered.png  
+accent_image: https://storage.googleapis.com/vikalpa_artwork/dmt1.png  
 image: 
-  path: https://storage.googleapis.com/vikalpa_artwork/shivashakticentered.png
+  path: https://storage.googleapis.com/vikalpa_artwork/dmt1.png
   width:  100%
   height: auto
   object-fit: contain
