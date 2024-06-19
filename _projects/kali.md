@@ -37,7 +37,7 @@ sitemap: false
 
 
 
-In this lecture, Alan Watts is emphasizing the profoundness of seeing the divine in a non-traditional, non-paternal light.
+In his lecture, Alan Watts is emphasizing the profoundness of seeing the divine in a non-traditional, non-paternal light.
 
 Watts critiques the common Judeo-Christian concept of God as a paternal, authoritarian figure. He argues that this image is a cultural construct that can make people feel estranged from the true essence of being. Instead, Watts suggests that divinity should not be confined to any specific image or form.
 
