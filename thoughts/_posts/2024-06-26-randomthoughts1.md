@@ -12,7 +12,7 @@ description: >
   Personal space is sacred.
 ---
 
-At the core of Hinduism and many other esoteric spiritual ideologies is approaching a level of self-awareness in an attempt to fully become familiar with who we are. Is there an I? And if so, who am I? So often does this question come up when we live our lives, and as time goes by, hopefully, we begin to make progress towards answering it. Just as I was thinking this, I realized that despite where I am on that road to self-discovery within myself, there is so much that I've already expressed in a space I can call my own. 
+Most spiritual practices are about approaching a level of self-awareness in an attempt to fully become familiar with who we are. Is there an I? And if so, who am I? So often does this question come up when we live our lives, and as time goes by, hopefully, we begin to make progress towards answering it. Just as I was thinking this, I realized that despite where I am on that road to self-discovery within myself, there is so much that I've already expressed in a space I can call my own. 
 
 ## Personal space is sacred.  
 
