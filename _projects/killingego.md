@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Killing Ego"
+title: "Kabandha"
 caption: Ego death. 
 date: '28-06-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/rascalego.png
@@ -24,3 +24,5 @@ In the epic Ramayana, Kabandha is a fearsome demon encountered by Rama and his b
 Kabandha's distorted form symbolizes the ego's grotesque nature when consumed by desires and attachments. His giant mouth represents insatiable hunger, reflecting how the ego constantly seeks to feed its desires without ever being satisfied. Kabandha's lack of a head symbolizes blindness and ignorance, a state where the ego prevents one from seeing the truth and understanding the self. It can cloud judgment and lead one astray from spiritual and moral paths. 
 
 The struggle between Rama, Lakshmana, and Kabandha represents the internal battle one must commit against their ego. Overcoming this delusion requires immense effort, courage, and persistence, much like the physical battle depicted in the Ramayana. When Rama and Lakshmana defeat Kabandha, they liberate him from his curse, allowing him to return to his celestial form. This transformation signifies the death of the ego and the liberation of the true self. By overcoming the ego, one can fully realize that they are part of a greater cosmic consciousness, one that pervades all beings all the time.
+
+![alt text](https://storage.googleapis.com/vikalpa_artwork/rascalego.png)
