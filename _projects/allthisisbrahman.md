@@ -26,3 +26,4 @@ Similarly, Sikhism preaches the concept of <span style="color:turquoise">Ek Omka
 
 This oneness fosters a profound sense of unity and interconnectedness, urging humanity to transcend superficial differences and cultivate compassion and empathy for all beings. It inspires individuals to treat one another, as well as the natural world, with greater kindness and respect. By embracing these teachings, we can create a more peaceful and elevated state of civilization.
 
+![alt text](https://storage.googleapis.com/vikalpa_artwork/nagaprint.png)
