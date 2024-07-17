@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Bhairava"
-caption: Unveiling reality.
+caption: Reality unveiled.
 date: '16-07-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/bhairava.png  
 image: 
