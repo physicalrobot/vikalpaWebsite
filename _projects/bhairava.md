@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Bhairava"
-caption: Reality unveiled.
+caption: Unveiling reality.
 date: '16-07-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/bhairava.png  
 image: 
@@ -16,7 +16,7 @@ image:
 sitemap: false
 ---
 
-<span style="color:turquoise">Bhairava</span>, a form of <span style="color:turquoise">Shiva</span>, represents the unrefined, raw truth of reality—a confrontation we all must inevitably face. The goal in Hinduism has always been to transcend into a state of <span style="color:turquoise">Moksha</span>, a liberation from <span style="color:turquoise">Samsara</span> (the eternal cycle of life and death). We are victims of this cycle because of <span style="color:turquoise">Maya</span>, a deep cosmic dementia that obscures our true existential nature. <span style="color:turquoise">Maya</span> causes us to live our lives through a filter that drives us to be superficially comfortable.
+<span style="color:turquoise">Bhairava</span>, a form of <span style="color:turquoise">Shiva</span>, represents the unrefined, raw truth of reality—a confrontation we all must inevitably face. The goal in Hinduism has always been to transcend into a state of <span style="color:turquoise">Moksha</span>, a liberation from <span style="color:turquoise">Samsara</span> (the eternal cycle of life and death). We are victims of this cycle because of <span style="color:turquoise">Maya</span>, a deep cosmic dementia that obscures our true existential nature. <span style="color:turquoise">Maya</span> causes us to live our lives through a filter that drives us to become the most comfortable we can be.
 
 In Buddhism, it is emphasized that all forms of change come with a measure of discomfort. This discomfort can escalate into fear and anxiety, often leading people to justify self-destructive habits that provide immediate gratification at the cost of something greater down the line. If this is true on a day-to-day basis, then confronting the contrast between true reality and our delusion of it is bound to induce the most fear and anxiety possible. 
 
