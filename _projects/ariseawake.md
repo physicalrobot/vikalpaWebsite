@@ -2,7 +2,7 @@
 layout: project
 title: "Arise! Awake!"
 caption: Stop not till the goal is reached.
-date: '02-07-2024'
+date: '03-07-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/ariseawake.png   
 image: 
   path: https://storage.googleapis.com/vikalpa_artwork/ariseawake.png

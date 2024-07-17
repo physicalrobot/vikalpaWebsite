@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "All This Is Brahman"
-caption:  Sarvam Khalvidam Brahma.
+caption: Sarvam Khalvidam Brahma.
 date: '02-07-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/nagaprint.png   
 image: 
