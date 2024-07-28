@@ -56,13 +56,13 @@ Om Shaantih Shaantih Shaantih ||
 
 Translation:
 
-1. Aum, From (the Phenomenal World of) Unreality, make me go (i.e. Lead me) towards the Reality (of the Eternal Self),
-2. From the Darkness (of Ignorance), make me go (i.e. Lead me) towards the Light (of Spiritual Knowledge),
-3. From (the World of) Mortality (of Material Attachment), make me go (i.e. Lead me) towards the World of Immortality (of Self-Realization),
+1. Aum, From (the Phenomenal World of) Unreality, lead me towards the Reality (of the Eternal Self),
+2. From the Darkness (of Ignorance), lead me towards the Light (of Spiritual Knowledge),
+3. From (the World of) Mortality (of Material Attachment), lead me towards the World of Immortality (of Self-Realization),
 4. Aum, Peace, Peace, Peace.
 
 ---
 
-This ancient mantra is used by many Hindus for guidance from untruth to truth, from darkness to light, and from death to immortality. In Hinduism, darkness represents ignorance, and mortality represents our attachment to Maya. Only by dispelling our inner ignorance through wisdom can one begin to liberate themselves from the cycle of life and death. The mantra ends by invoking a state of profound inner and outer peace.
+This ancient mantra is used by many Hindus for guidance from untruth to truth, from darkness to light, and from death to immortality. In Hinduism, darkness represents ignorance, and mortality represents our attachment to <span style="color:turquoise">Maya</span>. Only by dispelling our inner ignorance through wisdom can one begin to liberate themselves from the cycle of life and death. The mantra ends by invoking a state of profound inner and outer peace.
 
 ![alt text](https://storage.googleapis.com/vikalpa_artwork/asatomaa.png)
