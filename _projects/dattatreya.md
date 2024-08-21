@@ -23,7 +23,7 @@ Dattatreya is a sacred being who appears only to those who are sincerely unaffec
  - <span style="color:turquoise">Vishnu - Sattva</span>: principles of harmony, knowledge, happiness, and goodness.
  
  
-These qualities manifest in many different forms all around us. For instance, another interpretation suggests that:
+These qualities manifest in many different forms all around us. They are involved with every part of Maya, and can be observed in the day, seasons, food, thoughts and actions. For instance, another interpretation suggests that:
 
  - <span style="color:turquoise">Tamas</span> is the culmination of one's past experiences.
  - <span style="color:turquoise">Rajas</span> is the culmination of one's desires and future expectations.
