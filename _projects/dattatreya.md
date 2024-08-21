@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Dattatreya"
-caption: .
+caption: Universal wisdom.
 date: '11-08-2024'
 accent_image: https://storage.googleapis.com/vikalpa_artwork/dattatreya.png   
 image: 
