@@ -23,7 +23,7 @@ Each day of the festival is dedicated to a different manifestation of Shakti, an
   <li><span style="color:turquoise">Shailputri</span> represents the first phase of a woman’s life, as a daughter. She is the beginning of feminine energy and symbolizes innocence and purity.</li>
   <li><span style="color:turquoise">Brahmacharini</span> embodies the student phase, where a woman learns and grows, building strength and resilience for what lies ahead.</li>
   <li><span style="color:turquoise">Chandraghanta</span> represents readiness for marriage. She shares the crescent moon of her husband, symbolizing unity and partnership in this new stage of life.</li>
-  <li><span style="color:turquoise">Kushmanda</span> is the phase where a woman becomes ready to create life. "Kush" refers to cosmic energy, and "anda" means egg, symbolizing her potential to give birth.</li>
+  <li><span style="color:turquoise">Kushmanda</span> is the phase where a woman becomes ready to create life. "Ku" means little, "ushma" refers to warmth or energy, and "anda" means egg, symbolizing her potential to give birth.</li>
   <li><span style="color:turquoise">Skandamata</span> represents motherhood, nurturing the child and guiding them through early life.</li>
 </ol>
 
