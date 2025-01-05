@@ -3,7 +3,7 @@ layout: project
 title: "Atman"
 caption: The unchanging.
 date: '12-12-2024'
-accent_image: /assets/img/rough12.png
+accent_image: https://storage.googleapis.com/vikalpa_artwork/atman.png
 image: 
   path: /assets/img/rough12.png
   width:  100%
@@ -36,5 +36,5 @@ For instance, the <span style="color:turquoise">Brihadaranyaka Upanishad</span> 
 4. <span style="color:turquoise">Satchitananda</span>: The nature of the Atman, and thus Brahman, is described as Sat (pure existence), Chit (pure consciousness), and Ananda (pure bliss). This triad captures the essence of ultimate reality, beyond all conceptualization.
 
 <div style="text-align: center;">
-  <img src="/assets/img/rough12.png" alt="alt text">
+  <img src="https://storage.googleapis.com/vikalpa_artwork/atman.png" alt="alt text">
 </div>
