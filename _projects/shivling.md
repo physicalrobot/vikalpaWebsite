@@ -3,9 +3,9 @@ layout: project
 title: "Shiva Lingam"
 caption: A spiritual union.
 date: '01-01-2025'
-accent_image: https://storage.googleapis.com/vikalpa_artwork/shivling.png  
+accent_image: https://storage.googleapis.com/vikalpa_artwork/shivlingam.png  
 image: 
-  path: https://storage.googleapis.com/vikalpa_artwork/shivling.png  
+  path: https://storage.googleapis.com/vikalpa_artwork/shivlingam.png  
   width:  100%
   height: auto
   object-fit: contain
@@ -53,4 +53,4 @@ For many, the Lingam becomes a gateway to self-discovery, offering clarity, peac
 The Shiva Lingam is more than an artifact of worship; it is a timeless symbol of creation, balance, and transformation. Its profound simplicity conceals layers of meaning that invite us to explore the mysteries of existence. Whether you approach it as a spiritual seeker or an admirer of its philosophical depth, the Lingam stands as a reminder of the infinite possibilities within and beyond.
 
 
-![alt text](https://storage.googleapis.com/vikalpa_artwork/shivling.png)
+![alt text](https://storage.googleapis.com/vikalpa_artwork/shivlingam.png)
