@@ -38,7 +38,7 @@ The combination of the Lingam and Yoni further deepens its symbolic meaning, rep
     <img src="https://storage.googleapis.com/vikalpa_artwork/kundaliniyoga.png" alt="Kundalini Yoga">
 </div>
 
-The Shiva Lingam has often been the subject of varied interpretations, some of which overlook its profound spiritual significance. While certain perspectives reduce it to a symbol of physical fertility, deeper insights from spiritual traditions unveil its true essence. The Lingam is not merely an idol of worship in the conventional sense; it is a sacred tool for meditation, guiding seekers on the path to unity with the cosmic truth.
+The Shivling has often been the subject of varied interpretations, some of which overlook its profound spiritual significance. While certain perspectives reduce it to a symbol of physical fertility, deeper insights from spiritual traditions unveil its true essence. The Lingam is not merely an idol of worship in the conventional sense; it is a sacred tool for meditation, guiding seekers on the path to unity with the cosmic truth.
 
 As Sadhguru explains, the Lingam’s form is a masterful geometric design, crafted to harness and radiate energy. Certain Lingams, such as the revered Jyotirlingas, are celebrated for their immense vibrational potency, serving as powerful focal points for meditation, devotion, and spiritual elevation.
 
@@ -46,7 +46,7 @@ As Sadhguru explains, the Lingam’s form is a masterful geometric design, craft
 
 ## The Spiritual Experience
 
-Devotion to the Shiva Lingam transcends mere rituals and offerings, serving as a profound journey inward—a path to aligning oneself with the cosmos. Through meditation, chanting, or even quiet reverence, the Shiva Lingam becomes a gateway to transcend limitations and uncover the eternal truth dwelling within.
+Devotion to the Shivling transcends mere rituals and offerings, serving as a profound journey inward—a path to aligning oneself with the cosmos. Through meditation, chanting, or even quiet reverence, the Lingam becomes a gateway to transcend limitations and uncover the eternal truth dwelling within.
 
 Far from being just an object of worship, the Shiva Lingam embodies the essence of creation, balance, and transformation. Its elegant simplicity veils profound depths, inviting seekers to delve into the mysteries of existence and discover their connection to the infinite.
 
