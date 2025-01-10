@@ -29,6 +29,10 @@ gem "kramdown-parser-gfm"
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
 
+# temp hacks while upstream masto and dependencies update pins
+gem 'cbor', '~> 0.5.9.8'
+gem 'posix-spawn', github: "https://github.com/rtomayko/posix-spawn/pull/93"
+
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 

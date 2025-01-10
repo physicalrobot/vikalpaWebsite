@@ -24,7 +24,7 @@ The Shiva Lingam, often shrouded in mystery and revered as one of the most signi
 
 The Shiva Lingam, or "Shivling," is a cylindrical stone or sculptural representation found in temples, shrines, and homes dedicated to Lord Shiva. Its form is simple yet symbolic, often accompanied by a circular base called the <span style="color:turquoise">Yoni</span>. Together, the <span style="color:turquoise">Lingam</span> and <span style="color:turquoise">Yoni</span> represent the dynamic interplay of masculine and feminine energies, embodying the balance and unity inherent in the cosmos.
 
-It is not merely a physical object but an energy form—a tool to channel cosmic vibrations. This makes it a powerful instrument for spiritual growth and inner balance.
+It is not merely a physical object but an energy form—a tool to channel cosmic vibrations. This makes it a catalytic instrument for spiritual growth and inner balance.
 
 ---
 
