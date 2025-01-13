@@ -16,13 +16,12 @@ image:
 sitemap: false
 ---
 
-The Shiva Lingam, or "Shivling," is a cylindrical stone or sculptural representation found in temples, shrines, and homes dedicated to Lord Shiva. Often shrouded in mystery and revered as one of the most significant symbols of Hindu spirituality. It holds a unique place in the cultural and philosophical traditions of India. Its form is simple yet deep in meaning. The Shivling consists of two parts: the <span style="color:turquoise">Yoni</span> and the <span style="color:turquoise">Linga</span>. Together they represent the dynamic interplay of masculine and feminine energies, embodying the balance and unity inherent in the cosmos.  
+The Shiva Lingam, or Shivling, is a cylindrical stone or sculptural representation found in temples, shrines, and homes dedicated to Lord Shiva. Often shrouded in mystery and revered as one of the most significant symbols of Hindu spirituality. It holds a unique place in the cultural and philosophical traditions of India. Its form is simple yet deep in meaning. The Shivling consists of two parts: the <span style="color:turquoise">Linga</span> and the <span style="color:turquoise">Yoni</span>. Together they represent the dynamic interplay of masculine and feminine energies, embodying the balance and unity inherent in the cosmos.  
 It is not merely a physical object but an energy form—a tool to channel cosmic vibrations. This makes it a catalytic instrument for spiritual growth and inner balance.
 
 <div style="text-align: center;">
     <img src="https://storage.googleapis.com/vikalpa_artwork/shivlingdiagram.png" alt="Kundalini Yoga">
 </div>
-
 
 
 ---
