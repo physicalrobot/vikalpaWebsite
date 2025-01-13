@@ -38,7 +38,8 @@ The combination of the Lingam and Yoni is explicitly understood as the union of 
 
 The Shivling has often been the subject of varied interpretations, some of which overlook its deeper spiritual significance. While certain perspectives reduce it to a symbol of physical fertility, insights from spiritual traditions unveil its true essence. It is not merely an idol of worship in the conventional sense; but a sacred tool for meditation, guiding seekers on the path to unity with the cosmic truth.
 
-As Sadhguru explains, the Lingam’s form is a masterful geometric design, crafted to harness and radiate energy. Certain Lingams, such as the revered Jyotirlingas, are celebrated for their immense vibrational potency, serving as powerful focal points for meditation, devotion, and spiritual elevation.
+As [Sadhguru explains](https://isha.sadhguru.org/mahashivratri/shiva/12-things-may-not-know-shiva-lingas/), the Lingam’s form is a masterful geometric design, crafted to harness and radiate energy.
+ Certain Lingams, such as the revered Jyotirlingas, are celebrated for their immense vibrational potency, serving as powerful focal points for meditation, devotion, and spiritual elevation.
 
 ---
 
