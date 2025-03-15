@@ -23,7 +23,7 @@ Equanimity is a cornerstone of many meditative traditions, including <span style
 
 ## The Barriers to Equanimity
 
-Achieving this state of balance is no small feat. The mind is often caught in the grip of strong emotions—anger, pain, lust, jealousy, happiness, excitement, sadness, fear, and anything else that pulls us from our center. These emotions, while natural, can cloud our perception, making it difficult to rest in a space of solitude within.
+Achieving this state of balance is no small feat. The mind is often caught in the grip of strong emotions that pull us from our center. These emotions, while natural, can cloud our perception, making it difficult to rest in a space of solitude within.
 
 1. **Anger and Pain:** When we are angry or in pain, we tend to resist reality, wishing for things to be different. This resistance only amplifies suffering, creating an inner turbulence that prevents clarity and peace.
 
